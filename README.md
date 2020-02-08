@@ -4,13 +4,13 @@ Inspired by the [Adafruit Learn guide](https://learn.adafruit.com/3d-printed-iot
 
 
 ## Refernce links
-__Twitch API__
+__Twitch API__  
 https://dev.twitch.tv/console  
 https://dev.twitch.tv/docs/api/reference#get-streams  
 https://dev.twitch.tv/docs/authentication/#sending-user-access-and-app-access-tokens  
 
-__Feather HUZZAH32__
+__Feather HUZZAH32__  
 https://learn.adafruit.com/adafruit-huzzah32-esp32-feather/overview
 
-__ESP8266_OnAirSign__
+__ESP8266_OnAirSign__  
 https://github.com/adafruit/Twitch-API-Examples/blob/master/ESP8266_OnAirSign/ESP8266_OnAirSign.ino#L55  
